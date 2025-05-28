@@ -1,0 +1,8 @@
+langchain
+openai
+pandas
+faiss-cpu
+tiktoken
+chromadb
+streamlist
+python-dotenv
